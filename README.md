@@ -1,6 +1,6 @@
 # repo
 
-Githubの勉強中
+Githubのテスト
 
 ##メンバー
 *ksekiya
